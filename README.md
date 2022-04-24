@@ -7,3 +7,4 @@ repositório destinado a descrição das iniciativas.
 - devops
 - devsecops
 - cloud
+- dba
